@@ -1,0 +1,19 @@
+img{
+  float: left;
+  width: 250px;
+}
+.h3{
+  color: red;
+}
+.h1{
+  color: blue;
+}
+.h2{
+  color: green;
+}
+.author{
+  color: red;
+}
+.name{
+  font-style: oblique;
+}
